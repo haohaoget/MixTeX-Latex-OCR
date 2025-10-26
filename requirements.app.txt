@@ -1,0 +1,6 @@
+streamlit
+onnxruntime-gpu==1.18.1
+torch
+transformers==4.43.2
+Pillow==10.4.0
+numpy==1.26.4
